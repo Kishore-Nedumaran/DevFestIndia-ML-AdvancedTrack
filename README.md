@@ -1,4 +1,4 @@
-# DevFestIndia-ML-AdvancedTrack-
+# DevFestIndia-ML(Advanced Track)
 This repository contains Links to advanced Track ML for DevFest India
 
 
